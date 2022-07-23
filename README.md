@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kankenny&label=Profile%20views&color=0e75b6&style=flat" alt="kankenny" /> </p>
 
-![]([https://giphy.com/gifs/PEjR56tr4wWqROzRwz](https://www.theodysseyonline.com/12-cat-gifs-to-brighten-your-day))
+![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
 - 🌱 I’m currently learning **FullStack JavaScript**
 
