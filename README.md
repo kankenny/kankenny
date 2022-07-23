@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kankenny&label=Profile%20views&color=0e75b6&style=flat" alt="kankenny" /> </p>
 
+![](https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif)
+
 - 🌱 I’m currently learning **FullStack JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kankenny](https://github.com/Kankenny)
