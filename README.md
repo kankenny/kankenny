@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kankenny&label=Profile%20views&color=0e75b6&style=flat" alt="kankenny" /> </p>
 
 
-![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+![](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 
 - 🔭 I’m currently working on [StreetEasier](https://github.com/Kankenny/StreetEasier)
 
