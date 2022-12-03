@@ -9,22 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kankenny](https://github.com/Kankenny)
 
-- 📫 How to reach me **kmaddela@nyit.edu**
-
-<h3 align="left">Connect with me:</h3><h1 align="center">Hi 👋, I'm Kennette James Basco</h1>
-<h3 align="center">A nerd for web dev stuff</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kankenny&label=Profile%20views&color=0e75b6&style=flat" alt="kankenny" /> </p>
-
-
-![](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
-
-- 🔭 I’m currently working on [StreetEasier](https://github.com/Kankenny/StreetEasier)
-
-- 🌱 I’m currently learning **FullStack JavaScript, React, Python, GraphQL, MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kankenny](https://github.com/Kankenny)
-
 @@ -21,4 +18,3 @@
 </p>
 
