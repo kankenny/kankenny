@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kennette James Basco</h1>
-https://kennette-basco.vercel.app/
+<h2 align="center">https://kennette-basco.vercel.app/</h2>
 <h3 align="center">A nerd for web dev stuff</h3>
 
 ![](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
