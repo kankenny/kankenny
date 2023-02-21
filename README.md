@@ -3,7 +3,7 @@
 <h3 align="center">A nerd for web dev stuff</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100%">
 </p>
 
 - 🔭 I’m currently working on [StreetEasier](https://github.com/Kankenny/StreetEasier)
