@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **FullStack JavaScript, React, Python, Node, Express, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kankenny](https://github.com/Kankenny)
-
 - 📫 How to reach me **kmaddela@nyit.edu**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
