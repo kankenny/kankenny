@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kennette James Basco</h1>
 <h2 align="center">A nerd for web dev stuff</h3>
 <h3 align="center">https://kennette-basco.vercel.app/</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="animated" style="border-radius: 10px;" width="100%">
-</p>
+
+<div style="display: flex; justify-content: center;">
+  <div style="width: 100%; border-radius: 10px; overflow: hidden;">
+    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="animated" />
+  </div>
+</div>
 
 - 🔭 I’m currently working on [StreetEasier](https://github.com/Kankenny/StreetEasier)
 
