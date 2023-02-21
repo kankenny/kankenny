@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kennette James Basco<p align="center">A nerd for web dev stuff</p></h1>
+<h1 align="center">Hi 👋, I'm Kennette James Basco<p align="center" style="font-size: 16px;">A nerd for web dev stuff</p></h1>
 
 <h3 align="center">https://kennette-basco.vercel.app/</h2>
 
