@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [StreetEasier](https://github.com/Kankenny/StreetEasier)
 
-- 🌱 I’m currently learning **FullStack JavaScript, React, Python, GraphQL, MongoDB**
+- 🌱 I’m currently learning **FullStack JavaScript, React, Python, Node, Express, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kankenny](https://github.com/Kankenny)
 
