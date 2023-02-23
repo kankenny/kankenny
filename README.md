@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="gif" width="100%">
 
-- 🌱 I’m currently learning **Node, Express, Python, MongoDB**
+- 🌱 I’m currently learning **Node.js, Express.js, Python, mongoDB**
 
 - 📫 How to reach me **kmaddela@nyit.edu**
 <h3 align="left">Connect with me:</h3>
