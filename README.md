@@ -5,8 +5,6 @@
 
 <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="gif" width="100%">
 
-- 🔭 I’m currently working on [StreetEasier](https://github.com/Kankenny/StreetEasier)
-
 - 🌱 I’m currently learning **FullStack JavaScript, React, Python, Node, Express, MongoDB**
 
 - 📫 How to reach me **kmaddela@nyit.edu**
