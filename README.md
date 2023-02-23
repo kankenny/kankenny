@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kennette James Basco</h1>
+<h1 align="center">Hello there, I'm Kennette James Basco</h1>
 <p align="center">A nerd for web dev stuff</p>
 
 <h3 align="center">https://kennette-basco.vercel.app/</h2>
 
 <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="gif" width="100%">
 
-- 🌱 I’m currently learning **Node.js, Express.js, Python, mongoDB**
+- I’m currently learning **Node.js, Express.js, Python, mongoDB**
 
-- 📫 How to reach me **kmaddela@nyit.edu**
+- How to reach me **kmaddela@nyit.edu**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mddlknntt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mddlknntt" height="30" width="40" /></a>
