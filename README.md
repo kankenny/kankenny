@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Kennette James Basco</h1>
+<h1 align="center">Hello there! I'm Kennette Basco</h1>
 <p align="center">A nerd for web dev stuff</p>
 
 <h3 align="center">https://kennette-basco.vercel.app/</h2>
