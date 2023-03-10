@@ -1,8 +1,6 @@
 <h1 align="center">Hello there! I'm Kennette Basco</h1>
 <p align="center">A nerd for web dev stuff</p>
 
-<h3 align="center">https://kennette-basco.vercel.app/</h2>
-
 <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="gif" width="100%">
 
 - I’m currently learning **Node.js, Express.js, Python, mongoDB**
